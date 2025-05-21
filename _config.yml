@@ -1,6 +1,6 @@
 title: Hole Digging
 description: A game about digging deep and losing your mind.
-baseurl: ""
-url: ""
+baseurl: "/hole-digging-site"
+url: "https://damazee.github.io/hole-digging-site/"
 markdown: kramdown
 theme: minima
