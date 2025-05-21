@@ -23,8 +23,10 @@ title: Hole Digging
   </div>
 </div>
 
-<h2>📜 About This Game</h2>
+<div class="about-section">
+  <h2>📜 About This Game</h2>
 
-<p><strong>Hole Digging</strong> is a 2D incremental mining game where you dig deeper into a cursed planet, harvest strange resources, and face cosmic horrors hiding in the dark.</p>
+  <p><strong>Hole Digging</strong> is a 2D incremental mining game where you dig deeper into a cursed planet, harvest strange resources, and face cosmic horrors hiding in the dark.</p>
 
-<p>Click to dig. Automate your mining. Upgrade your tech. Survive the unknown. Dig too deep... and something might dig back.</p>
+  <p>Click to dig. Automate your mining. Upgrade your tech. Survive the unknown. Dig too deep... and something might dig back.</p>
+</div>
