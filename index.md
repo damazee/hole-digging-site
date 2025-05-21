@@ -3,8 +3,6 @@ layout: default
 title: Hole Digging
 ---
 
-<h1>🕳️ Hole Digging</h1>
-
 <div class="buttons">
   <a href="https://store.steampowered.com/app/YOUR_GAME_ID" class="btn">Steam</a>
   <a href="https://youtube.com/YOUR_TRAILER_LINK" class="btn">Trailer</a>
