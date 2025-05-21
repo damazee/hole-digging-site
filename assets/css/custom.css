@@ -44,3 +44,12 @@
 .btn:hover {
   opacity: 0.85;
 }
+
+.header-logo {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
