@@ -1,0 +1,18 @@
+# Archivos de Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Archivos Ruby/Bundler
+.bundle/
+Gemfile.lock
+vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Otros (VSCode, logs, etc.)
+.vscode/
+*.log
