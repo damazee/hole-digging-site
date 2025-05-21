@@ -16,7 +16,7 @@ title: Hole Digging
   {% for post in site.posts limit:3 %}
     <li>
       <strong>{{ post.date | date: "%B %d, %Y" }}</strong><br />
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
